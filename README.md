@@ -5,7 +5,7 @@
 [![Status](https://travis-ci.org/rstacruz/cheatsheets.svg?branch=master)](https://travis-ci.org/rstacruz/cheatsheets "See test builds")
 
 <br>
-
+https://devhints.io/cask-index
 <p align='center'>
 <a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a>
 <br>
